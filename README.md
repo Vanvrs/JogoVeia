@@ -1,1 +1,1 @@
-Jogo da Velha desenvolvido com Tkinter python para aplicações Desktop
+Jogo da Velha desenvolvido com Tkinter python.
